@@ -1,0 +1,6 @@
+name: sql
+root: ~/sql
+windows:
+  - editor: nvim
+  - shell: fish && clear
+  - files: yazi
