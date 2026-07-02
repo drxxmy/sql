@@ -1,7 +1,0 @@
-name: sql
-root: ~/sql
-windows:
-  - editor: nvim
-  - shell: clear
-  - git: lazygit
-  - files: yazi
